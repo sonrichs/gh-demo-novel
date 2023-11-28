@@ -1,4 +1,5 @@
 Chapter 1
+---------------
 In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
 
 "Whenever you feel like criticizing any one," he told me, "just remember that all the people in this world haven't had the advantages that you've had."
@@ -196,4 +197,3 @@ Miss Baker and I exchanged a short glance consciously devoid of meaning. I was a
 "You mean to say you don't know?" said Miss Baker, honestly surprised. "I thought everybody knew."
 
 "I don't."
-aaa
